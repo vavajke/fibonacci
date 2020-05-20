@@ -1,0 +1,17 @@
+{
+    "name": "rmaysak/fibonacci",
+    "description": "Test composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruslan Maysak",
+            "email": "vavajke@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "RM\\Fibonacci\\": "src"
+    }
+}
