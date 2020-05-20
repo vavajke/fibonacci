@@ -1,5 +1,5 @@
 <?php
-namespace RM\Fibonacci;
+namespace RM;
 
 use Exception;
 
